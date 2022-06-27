@@ -1,0 +1,14 @@
+C:\Users\tuko2\Desktop\Coti Projetos\ApiClientes\ApiClientes.Infra.Data\bin\Debug\net6.0\ApiClientes.Infra.Data.deps.json
+C:\Users\tuko2\Desktop\Coti Projetos\ApiClientes\ApiClientes.Infra.Data\bin\Debug\net6.0\ApiClientes.Infra.Data.dll
+C:\Users\tuko2\Desktop\Coti Projetos\ApiClientes\ApiClientes.Infra.Data\bin\Debug\net6.0\ref\ApiClientes.Infra.Data.dll
+C:\Users\tuko2\Desktop\Coti Projetos\ApiClientes\ApiClientes.Infra.Data\bin\Debug\net6.0\ApiClientes.Infra.Data.pdb
+C:\Users\tuko2\Desktop\Coti Projetos\ApiClientes\ApiClientes.Infra.Data\obj\Debug\net6.0\ApiClientes.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuko2\Desktop\Coti Projetos\ApiClientes\ApiClientes.Infra.Data\obj\Debug\net6.0\ApiClientes.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\tuko2\Desktop\Coti Projetos\ApiClientes\ApiClientes.Infra.Data\obj\Debug\net6.0\ApiClientes.Infra.Data.AssemblyInfo.cs
+C:\Users\tuko2\Desktop\Coti Projetos\ApiClientes\ApiClientes.Infra.Data\obj\Debug\net6.0\ApiClientes.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\tuko2\Desktop\Coti Projetos\ApiClientes\ApiClientes.Infra.Data\obj\Debug\net6.0\ApiClientes.Infra.Data.dll
+C:\Users\tuko2\Desktop\Coti Projetos\ApiClientes\ApiClientes.Infra.Data\obj\Debug\net6.0\ref\ApiClientes.Infra.Data.dll
+C:\Users\tuko2\Desktop\Coti Projetos\ApiClientes\ApiClientes.Infra.Data\obj\Debug\net6.0\ApiClientes.Infra.Data.pdb
+C:\Users\tuko2\Desktop\Coti Projetos\ApiClientes\ApiClientes.Infra.Data\bin\Debug\net6.0\ApiClientes.Infra.Data.runtimeconfig.json
+C:\Users\tuko2\Desktop\Coti Projetos\ApiClientes\ApiClientes.Infra.Data\obj\Debug\net6.0\ApiClientes.Infra.Data.genruntimeconfig.cache
+C:\Users\tuko2\Desktop\Coti Projetos\ApiClientes\ApiClientes.Infra.Data\obj\Debug\net6.0\ApiClientes.Infra.Data.csproj.AssemblyReference.cache

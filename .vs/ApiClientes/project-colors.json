@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8c1ae1f5-8929-460a-8cde-e037b3d5f2f5": {
+      "ProjectGuid": "8c1ae1f5-8929-460a-8cde-e037b3d5f2f5",
+      "DisplayName": "ApiClientes.Infra.Data",
+      "ColorIndex": 0
+    },
+    "9c194f4e-10c0-410b-a0ad-1384126b87b6": {
+      "ProjectGuid": "9c194f4e-10c0-410b-a0ad-1384126b87b6",
+      "DisplayName": "ApiClientes.Tests",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "aae3c89f-aec2-4715-a243-f5c6a8e62566": {
+      "ProjectGuid": "aae3c89f-aec2-4715-a243-f5c6a8e62566",
+      "DisplayName": "ApiClientes.Services",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
