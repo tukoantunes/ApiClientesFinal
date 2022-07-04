@@ -14,8 +14,4 @@
     <ProjectReference Include="..\ApiClientes.Infra.Data\ApiClientes.Infra.Data.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Validations\" />
-  </ItemGroup>
-
 </Project>
